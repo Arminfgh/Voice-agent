@@ -1,0 +1,6 @@
+livekit
+numpy
+soundfile
+speechrecognition
+webrtcvad
+TTS
