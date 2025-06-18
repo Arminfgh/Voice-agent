@@ -1,8 +1,8 @@
 """
 livekit_handler.py
 
-Author: Your Name
-Date: 2025-06-16
+Author:   Armin
+Date: 2025-06-18
 Description: LiveKit server management and real-time audio streaming handler.
 Manages rooms, participants, and audio streams for the voice agent system.
 """
