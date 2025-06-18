@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "livekit-client": "^2.13.5",
+    "ws": "^8.18.2"
+  }
+}
