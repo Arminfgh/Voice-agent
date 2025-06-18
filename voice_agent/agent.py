@@ -1,8 +1,8 @@
 """
 voice_agent.py
 
-Author: Your Name
-Date: 2025-06-16
+Author: Armin
+Date: 2025-06-18
 Description: Main Voice Agent component with LiveKit integration for TTS system.
 Handles voice conversations, reminders, and real-time audio processing.
 """
